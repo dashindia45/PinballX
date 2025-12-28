@@ -87,8 +87,7 @@ Pinball-Evolved/
 
 ## 👨‍💻 Author
 Dashrath Kumar  
-Computer Science Engineering  
-Java | Game Logic | OOP
+
 
 ---
 
